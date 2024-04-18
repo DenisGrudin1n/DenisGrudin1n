@@ -16,7 +16,7 @@ With a solid foundation in software development from my Bachelor's degree and pr
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/denis-grudinin-8174b6241/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="LinkedIn"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/145/145807.png" width="40" height="40" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/denis_hrudinin/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/128/3955/3955024.png" width="40" height="40" alt="Instagram"/>
