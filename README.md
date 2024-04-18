@@ -21,7 +21,7 @@ With a solid foundation in software development from my Bachelor's degree and pr
   <a href="https://www.instagram.com/denis_hrudinin/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/128/3955/3955024.png" width="40" height="40" alt="Instagram"/>
   </a>
-  <a href="[https://www.instagram.com/denis_hrudinin/](https://t.me/Denis_Grudinin)" target="_blank">
+  <a href="https://t.me/Denis_Grudinin" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/128/2111/2111646.png" width="40" height="40" alt="Telegram"/>
   </a>
 </div>
