@@ -4,9 +4,7 @@
 
 ### 👨‍💻 About me:
 
-My name is Denis Grudinin, I`m an enthusiastic software developer from Ukraine with a passion for Flutter development. Currently pursuing my Master's degree in Computer Science at Uzhhorod National University, I've spent the past year immersing myself in Flutter, exploring its capabilities, and honing my skills.
-
-With a solid foundation in software development from my Bachelor's degree and practical experience gained through projects like RecipeMobileApp, I'm excited to transition into a role as a Junior Flutter Developer. Eager to collaborate on innovative projects and contribute to the vibrant tech community, I'm ready to bring my enthusiasm and expertise to the world of mobile development!
+My name is Denis Grudinin, I am a software developer from Ukraine who is passionate about Flutter development. Currently working towards my Masters degree in Computer Science at Uzhhorod National University. Over the past year, I've dedicated myself to learning and mastering Flutter discovering its functionalities and refining my expertise. Building upon the strong software development foundation laid during my Bachelor's degree and hands on learning from projects like RecipeMobileApp I am looking forward to transitioning into a Junior Flutter Developer.
 
 - 📫 How to contact me: [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Denis_Grudinin) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:denisgrudininworks@gmail.com)
 
