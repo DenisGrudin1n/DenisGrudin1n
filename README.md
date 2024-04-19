@@ -34,6 +34,7 @@ With a solid foundation in software development from my Bachelor's degree and pr
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="Firebase" alt="Firebase" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
 </div>
 
@@ -51,6 +52,8 @@ With a solid foundation in software development from my Bachelor's degree and pr
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>
   <img src="https://camo.githubusercontent.com/e96287185293d31261f994ed40f8c881cdfbf7f199bc1ecb4c60e04a5aa7fbc1/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f61646f62655f696c6c7573747261746f722d69636f6e2e737667" title="Illustrator" alt="Illustrator" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" title="AfterEffects" alt="AfterEffects" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title="Trello" alt="Trello" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>
 </div>
 
 ---
