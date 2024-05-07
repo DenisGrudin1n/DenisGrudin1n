@@ -60,4 +60,6 @@ My name is Denis Grudinin, I am a software developer from Ukraine who is passion
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>
   <img src="https://github.com/EleoXDA/EleoXDA/raw/main/images/ios.svg" title="Ios" alt="Ios" width="40" height="40"/>
+  <img src="https://github.com/ShohruhAKU/my_profile_tutorial/blob/main/assets/web_icon.png" title="Web" alt="Web" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=48&id=ZJ2g7YgS3wpT&format=png" title="Desktop" alt="Desktop" width="40" height="40"/>
 </div>
