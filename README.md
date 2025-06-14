@@ -36,6 +36,7 @@ My name is Denis Grudinin, I am a software developer from Ukraine who is passion
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="Firebase" alt="Firebase" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" title="Supabase" alt="Supabase" width="40" height="40"/>
+  <img src="https://pub.dev/packages/flame/versions/1.29.0/gen-res/gen/logo.webp" title="Flame" alt="Flame" width="45" height="45"/>
   <img src="https://www.softwareworld.co/assets/software/logo/onesignal.png" title="OneSignal" alt="OneSignal" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/33013347?s=200&v=4" title="RevenueCat" alt="RevenueCat" width="40" height="40"/>
   <img src="https://media.licdn.com/dms/image/v2/C560BAQEvD1JyOCKwqw/company-logo_200_200/company-logo_200_200/0/1649303244821/amplitude_analytics_logo?e=2147483647&v=beta&t=z9_tUd9aAh2KEx_gzeHfVjkOeaK6si-RC8ext1TZ24I" title="Amplitude" alt="Amplitude" width="40" height="40"/>
@@ -54,6 +55,7 @@ My name is Denis Grudinin, I am a software developer from Ukraine who is passion
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title="Trello" alt="Trello" width="40" height="40"/>
   <img src="https://w7.pngwing.com/pngs/885/629/png-transparent-miro-hd-logo-thumbnail.png" title="Miro" alt="Niro" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GoogleCloud" alt="GoogleCloud" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Illustrator" alt="Illustrator" width="40" height="40"/>
