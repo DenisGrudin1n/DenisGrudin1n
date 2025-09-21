@@ -4,7 +4,7 @@
 
 ### 📔 About me:
 
-My name is Denis Grudinin, I am a software developer from Ukraine who is passionate about **Flutter** development. I have 1.5 years of commercial experience, including two published apps on Google Play and App Store (Zenset and Neural Reader). Strong foundation in algorithms, data structures, and clean architecture, with hands-on expertise in Firebase, REST APIs, and state management using BLoC. Detail-oriented, quick to learn, and experienced in collaborating closely with designers and team leads to deliver pixel-perfect, production-ready apps.
+My name is Denis Grudinin, I am a software developer from Ukraine who is passionate about **Flutter** development. I have 1.5 years of commercial experience, including a couple of published apps on Google Play and App Store. Strong foundation in algorithms, data structures, and clean architecture, with hands-on expertise in Firebase, REST APIs, and state management using BLoC. Detail-oriented, quick to learn, and experienced in collaborating closely with designers and team leads to deliver pixel-perfect, production-ready apps.
 
 - 👨‍💻 My portfolio [denis-grudinin.netlify.app](https://denis-grudinin.netlify.app/)
 
@@ -36,7 +36,7 @@ My name is Denis Grudinin, I am a software developer from Ukraine who is passion
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="Firebase" alt="Firebase" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" title="Supabase" alt="Supabase" width="40" height="40"/>
-  <img src="https://pub.dev/packages/flame/versions/1.29.0/gen-res/gen/logo.webp" title="Flame" alt="Flame" width="45" height="45"/>
+  <img src="https://pub.dev/packages/flame/versions/1.32.0/gen-res/gen/logo.webp" title="Flame" alt="Flame" width="45" height="45"/>
   <img src="https://www.softwareworld.co/assets/software/logo/onesignal.png" title="OneSignal" alt="OneSignal" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/33013347?s=200&v=4" title="RevenueCat" alt="RevenueCat" width="40" height="40"/>
   <img src="https://media.licdn.com/dms/image/v2/C560BAQEvD1JyOCKwqw/company-logo_200_200/company-logo_200_200/0/1649303244821/amplitude_analytics_logo?e=2147483647&v=beta&t=z9_tUd9aAh2KEx_gzeHfVjkOeaK6si-RC8ext1TZ24I" title="Amplitude" alt="Amplitude" width="40" height="40"/>
