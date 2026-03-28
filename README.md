@@ -4,7 +4,7 @@
 
 ### 📔 About me:
 
-My name is Denis Grudinin, I am a software developer from Ukraine who is passionate about **Flutter** development. I have 1.5 years of commercial experience, including a couple of published apps on Google Play and App Store. Strong foundation in algorithms, data structures, and clean architecture, with hands-on expertise in Firebase, REST APIs, and state management using BLoC. Detail-oriented, quick to learn, and experienced in collaborating closely with designers and team leads to deliver pixel-perfect, production-ready apps.
+My name is Denis Grudinin, I am a software developer from Ukraine who is passionate about **Flutter** development. I have 2 years of commercial experience, including a couple of published apps on Google Play and App Store. Strong foundation in algorithms, data structures, and clean architecture, with hands-on expertise in Firebase, REST APIs, and state management using BLoC. Detail-oriented, quick to learn, and experienced in collaborating closely with designers and team leads to deliver pixel-perfect, production-ready apps.
 
 - 👨‍💻 My portfolio [denis-grudinin.netlify.app](https://denis-grudinin.netlify.app/)
 
